@@ -8,7 +8,7 @@
 
 5= پوشه خود را میسازیم 
 
-5= درست میکنیم touch و درون پوشه فایل خودمونو با پسوند 
+6= (touch) درون پوشه فایل خودمونو درست میکنیم
 
 6=git add/git commit -m/git remote add github/git push -u github
 
